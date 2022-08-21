@@ -8,9 +8,8 @@
 ## Nesse projeto consegui desenvolver um pouco mais meus conhecimentos...
 ## A prática leva a Perfeição.
 
-  <a href=" https://agostinhomarcia.github.io/pagina-caf-/" target="_blank">
-                <!--Link to project-->
-                <div class="work-content">Langding-page Café</div>
+   <a href=" https://agostinhomarcia.github.io/pagina-caf-/" >
+                Pagina Café
             </a>
 
 [<img src="./tela-pagina-de-café.gif">]
